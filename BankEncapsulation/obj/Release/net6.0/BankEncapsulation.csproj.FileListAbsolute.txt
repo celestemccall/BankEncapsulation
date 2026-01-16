@@ -1,0 +1,15 @@
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/bin/Release/net6.0/BankEncapsulation
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/bin/Release/net6.0/BankEncapsulation.deps.json
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/bin/Release/net6.0/BankEncapsulation.runtimeconfig.json
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/bin/Release/net6.0/BankEncapsulation.dll
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/bin/Release/net6.0/BankEncapsulation.pdb
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.csproj.AssemblyReference.cache
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.AssemblyInfo.cs
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.dll
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/refint/BankEncapsulation.dll
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.pdb
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/BankEncapsulation.genruntimeconfig.cache
+/Users/celestemccall/Desktop/repos/BankEncapsulation/BankEncapsulation/obj/Release/net6.0/ref/BankEncapsulation.dll

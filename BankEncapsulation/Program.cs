@@ -1,6 +1,8 @@
-﻿namespace BankEncapsulation
+﻿using System;
+
+namespace BankEncapsulation
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -9,7 +11,7 @@
 
            var amountToDeposit = double.Parse(Console.ReadLine());
 
-           myAccount.Deposit(amountToDeposit);
+            myAccount.Deposit(amountToDeposit);
 
            Console.WriteLine($"Thank you! Your balance is now {myAccount.GetBalance()}");
 
