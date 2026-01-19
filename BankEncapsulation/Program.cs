@@ -22,7 +22,7 @@ namespace BankEncapsulation
                 try
                 {
                     myAccount.Deposit(amountToDeposit);
-                    Console.WriteLine($"Thank you! Your balance is now {myAccount.GetBalance()}");
+                    Console.WriteLine($"Thank you! Your balance is now {myAccount.GetBalance():C}");
                 }
                 catch (ArgumentException ex)
                 {
@@ -36,7 +36,7 @@ namespace BankEncapsulation
                 if (first == 'y') continue;
                 if (first == 'n')
                 {
-                    Console.WriteLine($"Thank you, Your balance is now {myAccount.GetBalance()}, have a good day!");
+                    Console.WriteLine($"Thank you, Your balance is now {myAccount.GetBalance():C}, have a good day!");
                 }
                 break;
             }

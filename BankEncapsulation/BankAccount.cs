@@ -17,10 +17,10 @@ namespace BankEncapsulation
 			balance += amount;
 		}
 
-		public string GetBalance()
+		public double GetBalance()
 		{
-            return $"${balance}";
-        }
+			return balance;
+		}
     }
 }
 
